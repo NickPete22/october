@@ -1,0 +1,15 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 22px;
+    font-family: "Open Sans", helvetica, sans-serif;
+  }
+  #dropDown {
+    display: none;
+  }
+
+#toggle {
+    background-color: red;
+    padding: 15px;
+}

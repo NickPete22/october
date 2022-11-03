@@ -1,0 +1,44 @@
+nav {
+    height: 70px;
+    background-color: darkblue;
+    font-family: 'Open Sans', sans-serif;
+  }
+  .inline-block {
+    padding: 25px;
+    display: inline-block;
+    color: white;
+  }
+  .left {
+    float: left;
+    height: 500px;
+    background-color: rgb(33, 111, 212);
+    width: 30%;
+    text-align: center;
+  }
+  .right {
+    float: left;
+    background-color: lightblue;
+    height: 500px;
+    width: 70%;
+    text-align: center;
+  }
+  
+  .card {
+    display: inline-block;
+    background-color: #C6C6C6;
+    border: 2px darkblue;
+    border-radius: 5px;
+    height: 200px;
+    width: 150px;
+    margin: 35px;
+    margin-top: 50px;
+  }
+
+  img {
+    
+    border-radius: 50%;
+    scale: 30%;
+    position: fixed;
+    top: 50;
+    left: 0;
+  }
